@@ -1,0 +1,24 @@
+body{
+    background: rgb(3, 37, 70);
+}
+
+.principal{
+    width: 1000px;
+    margin: 30px auto;
+    background: #fff;
+}
+.menu li {
+    display: inline-block;
+}
+.menu li a{
+    display: block;
+    padding: 15px 20px;
+    color: #353535;
+    font-family: 'Open sans';
+    text-decoration: none;
+}
+.menu li a:hover{
+    color: #ce7d35;
+    transition: all .3s;
+}
+
